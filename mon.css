@@ -1,0 +1,57 @@
+.jumbotron {
+    padding: 6rem;
+    background-color: #b6cdf1;
+}
+
+#about {
+    padding: 2rem;
+    background-color: rgb(177, 248, 163);
+}
+
+.t1 {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#educations {
+    padding: 2rem;
+    background-color: #9ab2da;
+}
+
+#find {
+    padding: 2rem;
+    background-color: rgb(130, 235, 170);
+}
+
+.tc {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2rem 1rem;
+}
+
+#contact {
+    background-color: #7688a5;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(156, 240, 174);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ta {
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tt {
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tf {
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
